@@ -16,7 +16,7 @@ ROS2_talker_py:
 
 .. code-block::
 
-   user:~/ros2_ws$ ros2 run ros2_talker_py talker
+   user:~/ros2_ws$ ros2 run ros2_publisher_py talker
 
 ROS2_listner_py:
 
