@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/00_Documentation/ros2_talker_py" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GettingStarted/ros2_talker_py" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ros2_talker_py" vcs="Git" />
   </component>
 </project>
